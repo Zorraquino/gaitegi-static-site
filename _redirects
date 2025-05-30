@@ -1,0 +1,31 @@
+# Redirect root to Spanish
+/ /es/ 301
+
+# Language directories
+/es /es/index.html 200
+/eu /eu/index.html 200  
+/en /en/index.html 200
+
+# Spanish pages
+/es/naves /es/naves.html 200
+/es/oficinas /es/oficinas.html 200
+/es/modulos /es/modulos.html 200
+/es/contacto /es/contacto.html 200
+/es/aviso-legal /es/aviso-legal.html 200
+/es/politica-privacidad /es/politica-privacidad.html 200
+
+# Euskera pages
+/eu/nabeak /eu/nabeak.html 200
+/eu/bulegoak /eu/bulegoak.html 200
+/eu/moduloak /eu/moduloak.html 200
+/eu/harremanetarako /eu/harremanetarako.html 200
+/eu/lege-oharra /eu/lege-oharra.html 200
+/eu/pribatutasun-politika /eu/pribatutasun-politika.html 200
+
+# English pages
+/en/warehouses /en/warehouses.html 200
+/en/offices /en/offices.html 200
+/en/modules /en/modules.html 200
+/en/contact /en/contact.html 200
+/en/legal-notice /en/legal-notice.html 200
+/en/privacy-policy /en/privacy-policy.html 200 

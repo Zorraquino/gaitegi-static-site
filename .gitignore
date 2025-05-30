@@ -1,0 +1,42 @@
+# Dependencias de Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de construcción
+build/
+dist/
+.cache/
+
+# Archivos de sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+.temp/
+
+# Archivos de backup
+*.bak
+*.backup
+
+# Archivos grandes (> 50MB)
+images/gaitegi-naves-new.jpg
+images/gaitegi_video_ubicacion.mp4 
