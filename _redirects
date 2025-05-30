@@ -1,31 +1,31 @@
 # Redirect root to Spanish
-/ /es/ 301
+/ /gaitegi-static-site/es/ 301
 
 # Language directories
-/es /es/index.html 200
-/eu /eu/index.html 200  
-/en /en/index.html 200
+/gaitegi-static-site/es /gaitegi-static-site/es/index.html 200
+/gaitegi-static-site/eu /gaitegi-static-site/eu/index.html 200  
+/gaitegi-static-site/en /gaitegi-static-site/en/index.html 200
 
 # Spanish pages
-/es/naves /es/naves.html 200
-/es/oficinas /es/oficinas.html 200
-/es/modulos /es/modulos.html 200
-/es/contacto /es/contacto.html 200
-/es/aviso-legal /es/aviso-legal.html 200
-/es/politica-privacidad /es/politica-privacidad.html 200
+/gaitegi-static-site/es/naves /gaitegi-static-site/es/naves.html 200
+/gaitegi-static-site/es/oficinas /gaitegi-static-site/es/oficinas.html 200
+/gaitegi-static-site/es/modulos /gaitegi-static-site/es/modulos.html 200
+/gaitegi-static-site/es/contacto /gaitegi-static-site/es/contacto.html 200
+/gaitegi-static-site/es/aviso-legal /gaitegi-static-site/es/aviso-legal.html 200
+/gaitegi-static-site/es/politica-privacidad /gaitegi-static-site/es/politica-privacidad.html 200
 
 # Euskera pages
-/eu/nabeak /eu/nabeak.html 200
-/eu/bulegoak /eu/bulegoak.html 200
-/eu/moduloak /eu/moduloak.html 200
-/eu/harremanetarako /eu/harremanetarako.html 200
-/eu/lege-oharra /eu/lege-oharra.html 200
-/eu/pribatutasun-politika /eu/pribatutasun-politika.html 200
+/gaitegi-static-site/eu/nabeak /gaitegi-static-site/eu/nabeak.html 200
+/gaitegi-static-site/eu/bulegoak /gaitegi-static-site/eu/bulegoak.html 200
+/gaitegi-static-site/eu/moduloak /gaitegi-static-site/eu/moduloak.html 200
+/gaitegi-static-site/eu/harremanetarako /gaitegi-static-site/eu/harremanetarako.html 200
+/gaitegi-static-site/eu/lege-oharra /gaitegi-static-site/eu/lege-oharra.html 200
+/gaitegi-static-site/eu/pribatutasun-politika /gaitegi-static-site/eu/pribatutasun-politika.html 200
 
 # English pages
-/en/warehouses /en/warehouses.html 200
-/en/offices /en/offices.html 200
-/en/modules /en/modules.html 200
-/en/contact /en/contact.html 200
-/en/legal-notice /en/legal-notice.html 200
-/en/privacy-policy /en/privacy-policy.html 200 
+/gaitegi-static-site/en/warehouses /gaitegi-static-site/en/warehouses.html 200
+/gaitegi-static-site/en/offices /gaitegi-static-site/en/offices.html 200
+/gaitegi-static-site/en/modules /gaitegi-static-site/en/modules.html 200
+/gaitegi-static-site/en/contact /gaitegi-static-site/en/contact.html 200
+/gaitegi-static-site/en/legal-notice /gaitegi-static-site/en/legal-notice.html 200
+/gaitegi-static-site/en/privacy-policy /gaitegi-static-site/en/privacy-policy.html 200 

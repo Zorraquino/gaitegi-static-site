@@ -37,5 +37,5 @@ Thumbs.db
 *.backup
 
 # Archivos grandes (> 50MB)
-images/gaitegi-naves-new.jpg
-images/gaitegi_video_ubicacion.mp4 
+gaitegi-static-sites/images/gaitegi-naves-new.jpg
+gaitegi-static-sites/images/gaitegi_video_ubicacion.mp4 
